@@ -1,0 +1,17 @@
+{
+  "name": "crack-wfuzz",
+  "version": "1.0.0",
+  "description": "This is a cybersecurity assignment for cracking a web app using wfuzz tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "ejs": "^3.1.8",
+    "express": "^4.18.2"
+  }
+}
